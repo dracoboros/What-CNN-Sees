@@ -1,4 +1,4 @@
-# What does CNN sees?
+# What does CNN see?
 
 ### A repository showing the output from each Conv2D and MaxPooling layer
 
